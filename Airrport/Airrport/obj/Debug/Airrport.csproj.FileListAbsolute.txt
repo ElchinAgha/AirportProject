@@ -1,0 +1,10 @@
+c:\users\p402\source\repos\Airrport\Airrport\bin\Debug\Airrport.exe.config
+c:\users\p402\source\repos\Airrport\Airrport\bin\Debug\Airrport.exe
+c:\users\p402\source\repos\Airrport\Airrport\bin\Debug\Airrport.pdb
+c:\users\p402\source\repos\Airrport\Airrport\obj\Debug\Airrport.csprojResolveAssemblyReference.cache
+c:\users\p402\source\repos\Airrport\Airrport\obj\Debug\Airrport.Form1.resources
+c:\users\p402\source\repos\Airrport\Airrport\obj\Debug\Airrport.Properties.Resources.resources
+c:\users\p402\source\repos\Airrport\Airrport\obj\Debug\Airrport.csproj.GenerateResource.Cache
+c:\users\p402\source\repos\Airrport\Airrport\obj\Debug\Airrport.csproj.CoreCompileInputs.cache
+c:\users\p402\source\repos\Airrport\Airrport\obj\Debug\Airrport.exe
+c:\users\p402\source\repos\Airrport\Airrport\obj\Debug\Airrport.pdb
